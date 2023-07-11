@@ -1,0 +1,7 @@
+Cita 1:
+Fecha: 18/05/54
+Hora: 19:00
+Nombre del paciente: dewwqs
+Medico: Dr. Martinez
+Estado: Ocupada
+------------------------
